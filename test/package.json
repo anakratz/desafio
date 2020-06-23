@@ -1,0 +1,13 @@
+{
+  "name": "com.tech.testcafe",
+  "version": "1.0.0",
+  "description": "Testcasfe Desafio",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/testcafe"
+  },
+  "devDependencies": {
+    "testcafe": "^1.8.4"
+  },
+  "dependencies": {}
+}
